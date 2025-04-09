@@ -38,6 +38,4 @@ Si no se cumplen las condiciones, avisa al usuario y no realiza ninguna acción.
 Este script renombra todos los ficheros con extensión `.jpg` en el directorio actual, agregando un prefijo de fecha en formato **año-mes-día**.  
 Por ejemplo, un archivo llamado `imagen1.jpg` se renombrará como `20240413-imagen1.jpg` si el script se ejecuta el 13 de abril de 2024.
 
----
 
-¡Listo para usar y aprender! Si necesitas ejemplos de código, no dudes en pedirlos. 😊
